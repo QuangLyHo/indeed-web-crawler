@@ -1,0 +1,56 @@
+Enter Job Position: programmer
+Enter City State: new york, NY
+
+Company Name: Retool
+Skills: As we continue to grow, we’re adding customer-facing Associate Support Engineers to triage technical issues and advocate for our users.
+Date Posted: 3 days ago
+Salary: NA
+More Info: https://indeed.com/rc/clk?jk=3341f838b91e856e&fccid=d84f54f1c7f8f653&vjs=3
+
+
+Company Name: CBS Interactive
+Skills: Follow CBS Interactive on Twitter and Facebook.
+Working on the CBS News Engineering team, the candidate will be responsible for writing and maintaining…
+Date Posted: 5 days ago
+Salary: NA
+More Info: https://indeed.com/rc/clk?jk=eed270acc5d92cc8&fccid=5b47cb6dc9bd7f35&vjs=3
+
+
+Company Name: Spotify
+Skills: The Freemium R&D team oversees the entire user journey on Spotify and ensures we engage with people in innovative ways, every step of the way.
+Date Posted: 3 days ago
+Salary: NA
+More Info: https://indeed.com/rc/clk?jk=7382dcbdb8b9f150&fccid=fe404d18bb9eef1e&vjs=3
+
+
+Company Name: peoplecanfly
+Skills: Strong C++ knowledge and math skills.
+Minimum 3 years of software engineering experience.
+Minimum 2 years of game industry experience.
+Date Posted: 6 days ago
+Salary: NA
+More Info: https://indeed.com/rc/clk?jk=ed11b4681c7f4876&fccid=97eff75ef565f7b5&vjs=3
+
+
+Company Name: Simon & Schuster
+Skills: The Junior Email Designer/Developer will manage, develop, and QA approximately 30-40 email campaigns per month while contributing to the growth and…
+Date Posted: 5 days ago
+Salary: NA
+More Info: https://indeed.com/rc/clk?jk=a4a5ca3a969805d6&fccid=df30a08564cdd12e&vjs=3
+
+
+Company Name: Google
+Skills: Bachelor's degree in Computer Science, HCI, Design, or equivalent practical experience.
+Experience with JavaScript, HTML, and CSS.
+Ability to start in 2021.
+Date Posted: 6 days ago
+Salary: NA
+More Info: https://indeed.com/rc/clk?jk=18ee9e1699c06f7b&fccid=a5b4499d9e91a5c6&vjs=3
+
+
+Company Name: VMware
+Skills: We need someone who can own the delivery of significant parts of the Tanzu Observability UI.
+You will be working on high-performance visualizations of the…
+Date Posted: 3 days ago
+Salary: NA
+More Info: https://indeed.com/rc/clk?jk=f8ca84fa865fa8b9&fccid=c762a27145bd166e&vjs=3
